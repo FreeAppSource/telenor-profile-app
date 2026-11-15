@@ -1,0 +1,21 @@
+{
+ "app": "Telenor Profile App",
+ "start": "home-screen",
+ "screens": [
+  {
+   "slug": "home-screen",
+   "name": "Home screen",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 65,
+   "links": 0
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "dm-sans",
+  "inter",
+  "nunito-sans"
+ ]
+}
